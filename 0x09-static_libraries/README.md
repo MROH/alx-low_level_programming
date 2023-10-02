@@ -1,1 +1,1 @@
-This is the readme file for create_static_lib.sh
+This is the readme file for create static lib.sh
