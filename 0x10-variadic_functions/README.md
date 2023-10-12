@@ -1,4 +1,4 @@
-This is a Readme file for 0x10. C - Variadic functions
+This is a README.md file for project  0x10. C - Variadic functions
 Requirements
 General
 Allowed editors: vi, vim, emacs
