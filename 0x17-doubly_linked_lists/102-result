@@ -1,2 +1,2 @@
-printf 906609 102-result
+printf "906609" > 102-result
 
